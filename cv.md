@@ -1,6 +1,10 @@
 # Olga Bederson
+![photo](/photo_cv.png)
 :----------:
-### Phone +79641893230 Tg @OlgaBederson
+### +Phone +79641893230 
+### +Tg @OlgaBederson
+### +[Linkedin](https://www.linkedin.com/in/olga-bederson-46363022b/ "in")
+### +[GitHub](https://github.com/Olga-Bederson "GitHub")
 * * *
 ## Personal Profile 
 :----------:
@@ -21,5 +25,6 @@
 * * *
 ## Education
 :----------:
-### 2021 - GeekBrains-University (online education)
-### 2014-2016 - HSE University 
+### 2021 - GeekBrains-University Fullstack JavaScript
+### 2014-2016 - HSE University business law
+### 2009-2014 - Perm State University law faculty
