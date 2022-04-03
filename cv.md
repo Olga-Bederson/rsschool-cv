@@ -8,11 +8,18 @@
 * * *
 ## Skills 
 :----------:
-
+### +Excellent communications skills
+### + Language skills (English, Hebrew, Russian, French)
+### + Excellent management skills
+### + Basic knowledge HTML/CSS, JS, ReactJS
 * * *
 ## Experience 
 :----------:
-
+### 2016-2022 advocate
+### 2014-2016 CEO LTD "Perm legal center"
+### 2011-2014 legal assistant LTD "Perm legal center"
 * * *
 ## Education
 :----------:
+### 2021 - GeekBrains-University (online education)
+### 2014-2016 - HSE University 
