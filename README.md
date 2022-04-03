@@ -1,2 +1,1 @@
-rsschool-cv
-https://Olga-Bederson.github.io/rsschool-cv/cv
+rsschool-cv https://Olga-Bederson.github.io/rsschool-cv/cv
